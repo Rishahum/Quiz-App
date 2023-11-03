@@ -7,15 +7,27 @@ Question is displayed and their options are displayed respectively below the que
 
 
 
+
+
+
+
 After selecting a option, the option button will turn red and with increase in number of question the green bar will also increase.
 
 ![image](https://github.com/Rishahum/Quiz-App/assets/98969301/86f78e2b-44f5-4477-b482-0d2f62f7806b)
 
 
 
+
+
+
+
 Every question has a different timer.
 
 ![image](https://github.com/Rishahum/Quiz-App/assets/98969301/e3810bea-7fe2-448b-a305-172005e1f1a2)
+
+
+
+
 
 
 
