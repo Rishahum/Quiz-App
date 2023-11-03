@@ -40,3 +40,5 @@ According to the marks obtained, a emoji will appear and marks will also be disp
 ![image](https://github.com/Rishahum/Quiz-App/assets/98969301/3e37c8e3-d94b-40aa-baa8-6fada5ffe412)
 
 
+
+
