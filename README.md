@@ -4,6 +4,8 @@ This app has a side bar shows on which question user is on and a timer.
 Question is displayed and their options are displayed respectively below the question.
 
 ![image](https://github.com/Rishahum/Quiz-App/assets/98969301/f00dd067-5e8d-4755-a4b5-3654b258aeb3)
+<br>
+<br/>
 
 
 
