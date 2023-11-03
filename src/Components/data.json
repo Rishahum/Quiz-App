@@ -1,0 +1,55 @@
+{
+    "questions": [
+      {
+        "question": "What is the capital of France?",
+        "options": ["Madrid", "Berlin", "Paris", "Rome"],
+        "correctAnswer": "Paris"
+      },
+      {
+        "question": "Which planet is known as the Red Planet?",
+        "options": ["Mars", "Venus", "Jupiter", "Earth"],
+        "correctAnswer": "Mars"
+      },
+      {
+        "question": "Who painted the Mona Lisa?",
+        "options": ["Vincent Van Gogh", "Pablo Picasso", "Leonardo Da Vinci", "Claude Monet"],
+        "answer": "Leonardo Da Vinci"
+      },
+      {
+        "question": "What is the largest mammal on Earth?",
+        "options": ["Elephant", "Giraffe", "Blue Whale", "Lion"],
+        "correctAnswer": "Blue Whale"
+      },
+      {
+        "question": "What is the chemical symbol for gold?",
+        "options": ["Go", "Gd", "Au", "Ag"],
+        "correctAnswer": "Au"
+      },
+      {
+        "question": "Who wrote the play 'Romeo and Juliet'?",
+        "options": ["William Shakespeare", "Leo Tolstoy", "Charles Dickens", "Jane Austen"],
+        "correctAnswer": "William Shakespeare"
+      },
+      {
+        "question": "What is the largest organ in the human body?",
+        "options": ["Liver", "Brain", "Heart", "Skin"],
+        "correctAnswer": "Skin"
+      },
+      {
+        "question": "Which gas do plants absorb from the atmosphere?",
+        "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+        "correctAnswer": "Carbon Dioxide"
+      },
+      {
+        "question": "What is the currency of Japan?",
+        "options": ["Yen", "Dollar", "Euro", "Rupee"],
+        "correctAnswer": "Yen"
+      },
+      {
+        "question": "In which year did the Titanic sink?",
+        "options": ["1912", "1920", "1930", "1945"],
+        "correctAnswer": "1912"
+      }
+    ]
+  }
+  

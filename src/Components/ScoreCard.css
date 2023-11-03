@@ -1,0 +1,49 @@
+.message{
+    font-size: 2rem;
+    color: black;
+    font-weight: bold;
+    margin-bottom: 2rem;
+}
+.score{
+    font-weight: 700;
+    font-size: 3.5rem;
+    margin-bottom: 2rem;
+}
+.emoji{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+image{
+    margin-bottom: 2rem;
+}
+.checked{
+    background-color: brown;
+    color: blanchedalmond;
+}
+@media (max-width: 750px) {
+ .message{
+    font-size: 1.5rem;
+ }
+ .score{
+    font-size: 3rem;
+ }
+  }
+  @media (max-width: 550px) {
+    .message{
+        font-size: 1rem;
+     }
+     .score{
+        font-size: 2.5rem;
+     }
+    
+   }
+   @media (max-width: 250px) {
+    .message{
+        font-size: 0.75rem;
+     }
+     .score{
+        font-size: 2rem;
+     }
+   }

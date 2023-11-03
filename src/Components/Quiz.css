@@ -1,0 +1,135 @@
+.quiz-container{
+    
+    height: 30rem;
+    width: 40rem;
+    background-color: antiquewhite;
+    box-shadow: 2px 2px 10px 1px #333;
+    padding: 10px;  
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    
+}
+.ques-container{
+    position: relative;
+    background-color: white;
+    width: 35rem;
+    height: 5rem;
+    margin-bottom: 1rem;
+    box-shadow: 2px 2px 3px 1px #333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ans-container{
+    /* background-color: white; */
+    width: 30rem;
+    height: 16rem;
+    margin-bottom: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.option{
+    height: 3rem;
+    width: 25rem;
+    background-color: rgb(255, 254, 254);
+    box-shadow: 2px 2px 5px 1px #333;
+    margin-bottom: 1rem;
+    border: none;
+    border-radius: 12px;
+    
+}
+.option:hover{
+    background-color: black;
+    color: antiquewhite;
+}
+#next{
+    height: 3rem;
+    width: 10rem;
+    background-color: rgb(90, 193, 90);
+    border: none;
+    border-radius: 12%;
+}
+#next:hover{
+    background-color: whitesmoke;
+    color: brown;
+}
+.upper-bar{
+    height: 1.5rem;
+    width: 90%;
+    /* background-color: rgb(220, 223, 223); */
+    margin-bottom: 5px;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+.timer{
+    
+    /* background-color: aquamarine; */
+    font-size: medium;
+    display: flex;
+}
+.timerImg{
+    transform: scale(1.5);
+    margin-right: 10px;
+}
+.bar{
+    height: 1rem;
+    width:15%;
+    /* background-color: burlywood; */
+    display: flex;
+    justify-content: center;
+    border-radius: 12px;
+    
+    
+}
+.ques-completed{
+   
+     background-color: rgb(90, 193, 90);
+    height:100%;
+}
+.ques-remaining{
+    background-color: white;
+    height: 100%;
+}
+
+  
+@media (max-width: 750px) {
+    .quiz-container{
+        height: 35rem;
+        width:28rem;
+       }
+       .ques-container{
+        width: 25rem;
+       }
+       .option{
+        width: 21rem;
+       }
+  }
+  @media (max-width: 550px) {
+    .quiz-container{
+     height: 35rem;
+     width:18rem;
+    }
+    .ques-container{
+     width: 15rem;
+    }
+    .option{
+     width: 11rem;
+    }
+   }
+   @media (max-width: 250px) {
+    .quiz-container{
+     height: 55rem;
+     width:12rem;
+    }
+    .ques-container{
+     width: 9rem;
+    }
+    .option{
+     width: 7rem;
+    }
+   }
