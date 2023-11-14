@@ -59,7 +59,7 @@ const Quiz = () => {
     }
   return (
     <div>
-    {isShowCard==true?<ScoreCard score={score} totalScore={quizData.questions.length} />:
+    {isShowCard===true?<ScoreCard score={score} totalScore={quizData.questions.length} />:
     <div className='quiz-container'>
         <div className='upper-bar'>
             <div className='timer'>
